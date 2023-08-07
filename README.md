@@ -69,279 +69,63 @@
 - [x] 238-[LX]-KC - Managing File Permissions
 - [x] 240-[LX]-KC - Managing Processes
 - [x] 242-[LX]-KC - Managing Services
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-244-[LX]-KC - Software Management
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-246-[LX]-KC - Managing Log Files
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-248-[LX]-KC - Working with Commands
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-250-[LX]-KC - The Bash Shell
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-252-[LX]-KC - Bash Shell Scripts
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-254-[NF]-KC - Introduction to Networking
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-255-[NF]-KC - Networking Concepts
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-256-[NF]-KC - Internet Protocol [IP]
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-257-[NF]-KC - Amazon VPC
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-258-[NF]-KC - IPv4 Subnetting
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-259-[NF]-KC - TCP and UDP
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-260-[NF]-KC - Additional Networking Technologies
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-282-[SF]-KC - Introduction to Security
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-283-[SF]-KC - Security Lifecycle: Prevention
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-284-[SF]-KC - Network Hardening
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-285-[SF]-KC - Systems Hardening
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-286-[SF]-KC - Prevention: Data Security
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-287-[SF]-KC - Prevention: PKI
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-288-[SF]-KC - Prevention: Identity Management
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-289-[SF]-KC - Prevention: AWS IAM
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-290-[SF]-KC - Security Lifecycle: Detection
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-291-[SF]-KC - AWS CloudTrail
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-292-[SF]-KC - AWS Config
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-293-[SF]-KC - Security Lifecycle: Response
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-294-[SF]-KC - Security Lifecycle: Analysis
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-295-[SF]-KC - Trusted Advisor
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-296-[SF]-KC - Security Best Practices for Account Creation
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-297-[SF]-KC - AWS Security Compliance Program
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-298-[SF]-KC - AWS Security Resources
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-299-[DF]-KC - Introduction to Databases
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-300-[DF]-KC - Data Interaction and Database Transaction
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-301-[DF]-KC - Creating Tables and Learning Different Data Types
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-302-[DF]-KC - Inserting Data into a Database
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-303-[DF]-KC - Selecting Data from a Database
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-304-[DF]-KC - Performing a Conditional Search
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-305-[DF]-KC - Working with Functions
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-306-[DF]-KC - Organizing Data
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-307-[DF]-KC - Retrieving Data from Multiple Tables
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-308-[DF]-KC - Amazon RDS
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-309-[DF]-KC - Amazon DynamoDB
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-Activity - Creating Tables and Data Types
-Activities
-Click to test a different score-	
- 
-Activity - Introduction to Databases
-Activities
-Click to test a different score-	
- 
-Activity | Introduction to the Amazon Leadership Principles
-Assignments
-Click to test a different scoreText Entry Submission	
- 
- 
-Amazon Web Services (AWS) Cloud 9 Reference Guide
-Assignments
-Click to test a different score-	
- 
-AWS Cloud Practitioner Exam Grade
-Assignments
-Click to test a different score-	
- 
- 
-AWS Cloud Practitioner Exam Scheduled
-Assignments
-Click to test a different score-	
- 
-AWS re/Start - Introduction to AWS Training and Certification
-Assignments
-Click to test a different score- / 0	
- 
-AWS re/Start Interview Preparation
-Imported Assignments
-Click to test a different score-	
- 
-AWS re/Start Interview Preparation
-Knowledge Checks
-Click to test a different score-	
- 
-Databases Advanced Topics
-Activities
-Click to test a different score-	
- 
-Graduated
-Assignments
-Click to test a different score-	
- 
- 
-JAWS | Compute (Containers and Serverless) Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Compute (Database Services) Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Compute (Scaling and Name Resolution) Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Compute (Servers) Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Creating Automated and Repeatable Deployments Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Managing Resource Consumption Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Monitoring and Security Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Networking Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Storage and Archiving Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Systems Operations Overview| Knowledge Check
-Assignments
-Click to test a different score-	
- 
-JAWS | Tooling and Automation Overview | Knowledge Check
-Assignments
-Click to test a different score-	
- 
-Leadership Principles | Customer Obsession
-Assignments
-Click to test a different score-	
- 
-Leadership Principles | Earn Trust
-Assignments
-Click to test a different score-	
- 
-Leadership Principles | Have a Backbone; Disagree and Commit
-Assignments
-Click to test a different score-	
- 
-Leadership Principles | Learn and Be Curious
-Assignments
-Click to test a different score-	
- 
-Networking Fundamentals
-Assignments
-Click to test a different score-	
- 
-Review and Quiz: Cloud Foundations
-Assignments
+- [x] 244-[LX]-KC - Software Management
+- [x] 246-[LX]-KC - Managing Log Files
+- [x] 248-[LX]-KC - Working with Commands
+- [x] 250-[LX]-KC - The Bash Shell
+- [x] 252-[LX]-KC - Bash Shell Scripts
+- [x] 254-[NF]-KC - Introduction to Networking
+- [x] 255-[NF]-KC - Networking Concepts
+- [x] 256-[NF]-KC - Internet Protocol [IP]
+- [x] 257-[NF]-KC - Amazon VPC
+- [x] 258-[NF]-KC - IPv4 Subnetting
+- [x] 259-[NF]-KC - TCP and UDP
+- [x] 260-[NF]-KC - Additional Networking Technologies
+- [x] 282-[SF]-KC - Introduction to Security
+- [x] 283-[SF]-KC - Security Lifecycle: Prevention
+- [x] 284-[SF]-KC - Network Hardening
+- [x] 285-[SF]-KC - Systems Hardening
+- [x] 286-[SF]-KC - Prevention: Data Security
+- [x] 287-[SF]-KC - Prevention: PKI
+- [x] 288-[SF]-KC - Prevention: Identity Management
+- [x] 289-[SF]-KC - Prevention: AWS IAM
+- [x] 290-[SF]-KC - Security Lifecycle: Detection
+- [x] 291-[SF]-KC - AWS CloudTrail
+- [x] 292-[SF]-KC - AWS Config
+- [x] 293-[SF]-KC - Security Lifecycle: Response
+- [x] 294-[SF]-KC - Security Lifecycle: Analysis
+- [x] 295-[SF]-KC - Trusted Advisor
+- [x] 296-[SF]-KC - Security Best Practices for Account Creation
+- [x] 297-[SF]-KC - AWS Security Compliance Program
+- [x] 298-[SF]-KC - AWS Security Resources
+- [x] 299-[DF]-KC - Introduction to Databases
+- [x] 300-[DF]-KC - Data Interaction and Database Transaction
+- [x] 301-[DF]-KC - Creating Tables and Learning Different Data Types
+- [x] 302-[DF]-KC - Inserting Data into a Database
+- [x] 303-[DF]-KC - Selecting Data from a Database
+- [x] 304-[DF]-KC - Performing a Conditional Search
+- [x] 305-[DF]-KC - Working with Functions
+- [x] 306-[DF]-KC - Organizing Data
+- [x] 307-[DF]-KC - Retrieving Data from Multiple Tables
+- [x] 308-[DF]-KC - Amazon RDS
+- [x] 309-[DF]-KC - Amazon DynamoDB
+- [ ] AWS re/Start - Introduction to AWS Training and Certification
+- [ ] AWS re/Start Interview Preparation
+- [ ] AWS re/Start Interview Preparation
+- [ ] Databases Advanced Topics
+- [ ] JAWS | Compute (Containers and Serverless) Overview | Knowledge Check
+- [ ] JAWS | Compute (Database Services) Overview | Knowledge Check
+- [ ] JAWS | Compute (Scaling and Name Resolution) Overview | Knowledge Check
+- [ ] JAWS | Compute (Servers) Overview | Knowledge Check
+- [ ] JAWS | Creating Automated and Repeatable Deployments Overview | Knowledge Check
+- [ ] JAWS | Managing Resource Consumption Overview | Knowledge Check
+- [ ] JAWS | Monitoring and Security Overview | Knowledge Check
+- [ ] JAWS | Networking Overview | Knowledge Check
+- [ ] JAWS | Storage and Archiving Overview | Knowledge Check
+- [ ] JAWS | Systems Operations Overview| Knowledge Check
+- [ ] JAWS | Tooling and Automation Overview | Knowledge Check
+- [ ] Leadership Principles | Customer Obsession
+- [ ] Leadership Principles | Earn Trust
+- [ ] Leadership Principles | Have a Backbone; Disagree and Commit
+- [ ] Leadership Principles | Learn and Be Curious
+- [ ] Networking Fundamentals
