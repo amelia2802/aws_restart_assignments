@@ -1,284 +1,74 @@
-3-[CF]- KC - Basic Computing Concepts
-Assignments
-Click to test a different score5 / 5	
- 
-2-[CF]- KC - Introduction to Cloud Computing
-Assignments
-Click to test a different score5 / 5	
- 
-4-[CF]-KC - Development Team Roles
-Assignments
-Click to test a different score5 / 5	
- 
-5-[CF]-KC - What is Cloud Computing?
-Assignments
-Click to test a different score5 / 5	
- 
-6-[CF]-KC - What is Amazon Web Services?
-Assignments
-Click to test a different score5 / 5	
- 
-7-[CF]-KC - Fundamentals of AWS Pricing
-Assignments
-Click to test a different score5 / 5	
- 
-8-[CF]-KC - AWS Infrastructure Overview
-Assignments
-Click to test a different score5 / 5	
- 
-9-[CF]-KC - Shared Responsibility Model
-Assignments
-Click to test a different score5 / 5	
- 
-10-[CF]-KC - Introduction to Amazon S3
-Assignments
-Click to test a different score5 / 5	
- 
-12-[CF]-KC - Introduction to Amazon EC2
-Assignments
-Click to test a different score5 / 5	
- 
-117-[PF]-KC - Introduction to Programming
-Assignments
-Click to test a different score5 / 5	
- 
-119-[PF]-KC - Introduction to Python
-Assignments
-Click to test a different score5 / 5	
- 
-121-[PF]-KC - Python Basics
-Assignments
-Click to test a different score5 / 5	
- 
-123-[PF]-KC - Flow Control
-Assignments
-Click to test a different score5 / 5	
- 
-125-[PF]-KC - Functions
-Assignments
-Click to test a different score5 / 5	
- 
-127-[PF]-KC - Modules and Libraries
-Assignments
-Click to test a different score5 / 5	
- 
-131-[PF]-KC - Debugging and Testing
-Assignments
-Click to test a different score5 / 5	
- 
-137-[PF]-KC - DevOps and Continuous Integration
-Assignments
-Click to test a different score5 / 5	
- 
-138-[PF]-KC - Configuration Management
-Assignments
-Click to test a different score5 / 5	
- 
-167-[JAWS]-KC - Well-Architected Framework
-Assignments
-Click to test a different score5 / 5	
- 
-168-[JAWS]-Activity - Install and Configure the AWS CLI
-Assignments
-Click to test a different score- / 5	
- 
-195-[CERT]-KC - Assessment Scenario Certification Preparation
-Imported Assignments
-Click to test a different score- / 51	
- 
-195-[CERT]-KC - Assessment Scenario Certification Preparation
-Assignments
-Click to test a different score- / 51	
- 
-196-[CERT]-KC - Scenario Test Strategy Practice
-Imported Assignments
-Click to test a different score- / 11	
- 
-196-[CERT]-KC - Scenario Test Strategy Practice
-Assignments
-Click to test a different score- / 11	
- 
-197-[CERT]-KC - Cloud Computing
-Assignments
-Click to test a different score10 / 10	
- 
-197-[CERT]-KC - Cloud Computing
-Imported Assignments
-Click to test a different score- / 10	
- 
-198-[CERT]-KC - Cloud Economics
-Imported Assignments
-Click to test a different score- / 10	
- 
-198-[CERT]-KC - Cloud Economics
-Assignments
-Click to test a different score- / 10	
- 
-199-[CERT]-KC - AWS Global Infrastructure
-Imported Assignments
-Click to test a different score- / 10	
- 
-199-[CERT]-KC - AWS Global Infrastructure
-Assignments
-Click to test a different score10 / 10	
- 
-200-[CERT]-KC - Compute
-Imported Assignments
-Click to test a different score- / 10	
- 
-200-[CERT]-KC - Compute
-Assignments
-Click to test a different score10 / 10	
- 
-201-[CERT]-KC - Identity and Access Management [IAM]
-Imported Assignments
-Click to test a different score- / 20	
- 
-201-[CERT]-KC - Identity and Access Management [IAM]
-Assignments
-Click to test a different score20 / 20	
- 
-202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
-Imported Assignments
-Click to test a different score- / 15	
- 
-202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
-Assignments
-Click to test a different score- / 15	
- 
-203-[CERT]-KC - Storage
-Imported Assignments
-Click to test a different score- / 10	
- 
-203-[CERT]-KC - Storage
-Assignments
-Click to test a different score- / 10	
- 
-204-[CERT]-KC - Databases
-Imported Assignments
-Click to test a different score- / 10	
- 
-204-[CERT]-KC - Databases
-Assignments
-Click to test a different score- / 10	
- 
-205-[CERT]-KC - Billing and Support
-Imported Assignments
-Click to test a different score- / 10	
- 
-205-[CERT]-KC - Billing and Support
-Assignments
-Click to test a different score- / 10	
- 
-206-[CERT]-KC - Cloud Architecting
-Imported Assignments
-Click to test a different score- / 10	
- 
-206-[CERT]-KC - Cloud Architecting
-Assignments
-Click to test a different score- / 10	
- 
-207-[CERT]-KC - Balancing - Scaling - Monitoring
-Assignments
-Click to test a different score- / 9	
- 
-207-[CERT]-KC - Balancing - Scaling - Monitoring
-Imported Assignments
-Click to test a different score- / 9	
- 
-208-[CF]-KC - Advantages of Cloud Computing
-Assignments
-Click to test a different score5 / 5	
- 
-209-[CF]- KC - AWS Services and Service Categories
-Assignments
-Click to test a different score5 / 5	
- 
-210-[JAWS]-KC - System Operations Overview
-Assignments
-Click to test a different score5 / 5	
- 
-211-[JAWS]-KC - Tooling and Automation
-Assignments
-Click to test a different score5 / 5	
- 
-212-[JAWS]-KC - Computing (Servers)
-Assignments
-Click to test a different score- / 5	
- 
-213-[JAWS]-KC - Computing (Scaling and Name Resolution)
-Assignments
-Click to test a different score5 / 5	
- 
-214-[JAWS]-KC - Computing (Containers)
-Assignments
-Click to test a different score- / 5	
- 
-215-[JAWS]-KC - Computing (Databases)
-Assignments
-Click to test a different score- / 5	
- 
-216-[JAWS]-KC - Networking
-Assignments
-Click to test a different score- / 5	
- 
-217-[JAWS]-KC - Storage and Archiving
-Assignments
-Click to test a different score- / 5	
- 
-218-[JAWS]-KC - Monitoring and Security
-Assignments
-Click to test a different score- / 5	
- 
-219-[JAWS]-KC - Managing Resource Consumption
-Assignments
-Click to test a different score- / 5	
- 
-220-[JAWS]-KC - Creating Automated Repeatable Deployments
-Assignments
-Click to test a different score- / 5	
- 
-221-[DF]-KC - Amazon DynamoDB
-Assignments
-Click to test a different score- / 5	
- 
-223-[PF]-KC - Python for System Administration
-Assignments
-Click to test a different score5 / 5	
- 
-226-[LX]-KC - An Introduction to Linux
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-228-[LX]-KC - Linux Command Line
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-230-[LX]-KC - Users and Groups
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-232-[LX]-KC - Editing Files
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-234-[LX]-KC - Working with the File System
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-236-[LX]-KC - Working with Files
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-238-[LX]-KC - Managing File Permissions
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-240-[LX]-KC - Managing Processes
-Knowledge Checks
-Click to test a different score5 / 5	
- 
-242-[LX]-KC - Managing Services
+- [x] 3-[CF]- KC - Basic Computing Concepts
+- [x] 2-[CF]- KC - Introduction to Cloud Computing
+- [x] 4-[CF]-KC - Development Team Roles
+- [x] 5-[CF]-KC - What is Cloud Computing?
+- [x] 6-[CF]-KC - What is Amazon Web Services?
+- [x] 7-[CF]-KC - Fundamentals of AWS Pricing
+- [x] 8-[CF]-KC - AWS Infrastructure Overview
+- [x] 9-[CF]-KC - Shared Responsibility Model
+- [x] 10-[CF]-KC - Introduction to Amazon S3
+- [x] 12-[CF]-KC - Introduction to Amazon EC2
+- [x] 117-[PF]-KC - Introduction to Programming
+- [x] 119-[PF]-KC - Introduction to Python
+- [x] 121-[PF]-KC - Python Basics
+- [x] 123-[PF]-KC - Flow Control
+- [x] 125-[PF]-KC - Functions
+- [x] 127-[PF]-KC - Modules and Libraries
+- [x] 131-[PF]-KC - Debugging and Testing
+- [x] 137-[PF]-KC - DevOps and Continuous Integration
+- [x] 138-[PF]-KC - Configuration Management
+- [x] 167-[JAWS]-KC - Well-Architected Framework
+- [ ] 168-[JAWS]-Activity - Install and Configure the AWS CLI
+- [ ] 195-[CERT]-KC - Assessment Scenario Certification Preparation
+- [ ] 195-[CERT]-KC - Assessment Scenario Certification Preparation
+- [ ] 196-[CERT]-KC - Scenario Test Strategy Practice
+- [ ] 196-[CERT]-KC - Scenario Test Strategy Practice
+- [x] 197-[CERT]-KC - Cloud Computing
+- [ ] 197-[CERT]-KC - Cloud Computing
+- [ ] 198-[CERT]-KC - Cloud Economics
+- [ ] 198-[CERT]-KC - Cloud Economics
+- [ ] 199-[CERT]-KC - AWS Global Infrastructure
+- [ ] 199-[CERT]-KC - AWS Global Infrastructure
+- [ ] 200-[CERT]-KC - Compute
+- [x] 200-[CERT]-KC - Compute
+- [ ] 201-[CERT]-KC - Identity and Access Management [IAM]
+- [x] 201-[CERT]-KC - Identity and Access Management [IAM]
+- [ ] 202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
+- [ ] 202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
+- [ ] 203-[CERT]-KC - Storage
+- [ ] 203-[CERT]-KC - Storage
+- [ ] 204-[CERT]-KC - Databases
+- [ ] 204-[CERT]-KC - Databases
+- [ ] 205-[CERT]-KC - Billing and Support
+- [ ] 205-[CERT]-KC - Billing and Support
+- [ ] 206-[CERT]-KC - Cloud Architecting
+- [ ] 206-[CERT]-KC - Cloud Architecting
+- [ ] 207-[CERT]-KC - Balancing - Scaling - Monitoring
+- [ ] 207-[CERT]-KC - Balancing - Scaling - Monitoring
+- [x] 208-[CF]-KC - Advantages of Cloud Computing
+- [x] 209-[CF]- KC - AWS Services and Service Categories
+- [x] 210-[JAWS]-KC - System Operations Overview
+- [x] 211-[JAWS]-KC - Tooling and Automation
+- [ ] 212-[JAWS]-KC - Computing (Servers)
+- [ ] 213-[JAWS]-KC - Computing (Scaling and Name Resolution)
+- [ ] 214-[JAWS]-KC - Computing (Containers)
+- [ ] 215-[JAWS]-KC - Computing (Databases)
+- [ ] 216-[JAWS]-KC - Networking
+- [ ] 217-[JAWS]-KC - Storage and Archiving
+- [ ] 218-[JAWS]-KC - Monitoring and Security
+- [ ] 219-[JAWS]-KC - Managing Resource Consumption
+- [ ] 220-[JAWS]-KC - Creating Automated Repeatable Deployments
+- [ ] 221-[DF]-KC - Amazon DynamoDB
+- [x] 223-[PF]-KC - Python for System Administration
+- [x] 226-[LX]-KC - An Introduction to Linux
+- [x] 228-[LX]-KC - Linux Command Line
+- [x] 230-[LX]-KC - Users and Groups
+- [x] 232-[LX]-KC - Editing Files
+- [x] 234-[LX]-KC - Working with the File System
+- [x] 236-[LX]-KC - Working with Files
+- [x] 238-[LX]-KC - Managing File Permissions
+- [x] 240-[LX]-KC - Managing Processes
+- [x] 242-[LX]-KC - Managing Services
 Knowledge Checks
 Click to test a different score5 / 5	
  
