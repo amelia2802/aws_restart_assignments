@@ -18,7 +18,7 @@
 - [x] 137-[PF]-KC - DevOps and Continuous Integration
 - [x] 138-[PF]-KC - Configuration Management
 - [x] 167-[JAWS]-KC - Well-Architected Framework
-- [ ] 168-[JAWS]-Activity - Install and Configure the AWS CLI
+- [ ] **168-[JAWS]-Activity - Install and Configure the AWS CLI**
 - [ ] 195-[CERT]-KC - Assessment Scenario Certification Preparation
 - [ ] 195-[CERT]-KC - Assessment Scenario Certification Preparation
 - [ ] 196-[CERT]-KC - Scenario Test Strategy Practice
@@ -27,7 +27,7 @@
 - [ ] 197-[CERT]-KC - Cloud Computing
 - [ ] 198-[CERT]-KC - Cloud Economics
 - [ ] 198-[CERT]-KC - Cloud Economics
-- [ ] 199-[CERT]-KC - AWS Global Infrastructure
+- [ ] **199-[CERT]-KC - AWS Global Infrastructure**
 - [ ] 199-[CERT]-KC - AWS Global Infrastructure
 - [ ] 200-[CERT]-KC - Compute
 - [x] 200-[CERT]-KC - Compute
