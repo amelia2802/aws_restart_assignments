@@ -1,21 +1,3 @@
-
-Skip To Content
-Dashboard
-Amelia Dutta
-Account
-Dashboard
-Courses
-Calendar
-Inbox
-History
-Help
-INDEL21GradesAmelia Dutta
-Grades for Amelia Dutta
-Arrange By
-Due Date
-
-You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded.
-Name	Due	Status	Score	Details	Submission Progress Status
 3-[CF]- KC - Basic Computing Concepts
 Assignments
 Click to test a different score5 / 5	
@@ -573,24 +555,3 @@ Click to test a different score-
  
 Review and Quiz: Cloud Foundations
 Assignments
-Click to test a different score-	
- 
-Roll Call Attendance
-Assignments
-Click to test a different score92%	
- 
- 
-Knowledge Checks			
-100%	245.00 / 245.00
-Activities			
-N/A	0.00 / 0.00
-Assignments			
-97.14%	272.00 / 280.00
-Imported Assignments			
-N/A	0.00 / 0.00
-Total			
-98.48%	517.00 / 525.00
-Total: 98.48%
-Course assignments are not weighted.
-
-You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded.
