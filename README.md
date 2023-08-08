@@ -33,7 +33,7 @@
 - [x] 200-[CERT]-KC - Compute
 - [ ] 201-[CERT]-KC - Identity and Access Management [IAM]
 - [x] 201-[CERT]-KC - Identity and Access Management [IAM]
-- [ ] 202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
+- [x] 202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
 - [ ] 202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
 - [ ] 203-[CERT]-KC - Storage
 - [ ] 203-[CERT]-KC - Storage
