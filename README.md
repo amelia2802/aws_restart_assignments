@@ -37,7 +37,7 @@
 - [ ] 202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]
 - [ ] 203-[CERT]-KC - Storage
 - [ ] 203-[CERT]-KC - Storage
-- [ ] 204-[CERT]-KC - Databases
+- [x] 204-[CERT]-KC - Databases
 - [ ] 204-[CERT]-KC - Databases
 - [ ] 205-[CERT]-KC - Billing and Support
 - [ ] 205-[CERT]-KC - Billing and Support
