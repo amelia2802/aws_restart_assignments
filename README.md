@@ -52,7 +52,7 @@
 - [ ] 212-[JAWS]-KC - Computing (Servers)
 - [ ] 213-[JAWS]-KC - Computing (Scaling and Name Resolution)
 - [ ] 214-[JAWS]-KC - Computing (Containers)
-- [ ] 215-[JAWS]-KC - Computing (Databases)
+- [x] 215-[JAWS]-KC - Computing (Databases)
 - [x] 216-[JAWS]-KC - Networking
 - [ ] 217-[JAWS]-KC - Storage and Archiving
 - [ ] 218-[JAWS]-KC - Monitoring and Security
