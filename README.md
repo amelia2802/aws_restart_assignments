@@ -114,13 +114,13 @@
 - [ ] AWS re/Start Interview Preparation
 - [ ] Databases Advanced Topics
 - [ ] JAWS | Compute (Containers and Serverless) Overview | Knowledge Check
-- [ ] JAWS | Compute (Database Services) Overview | Knowledge Check
-- [ ] JAWS | Compute (Scaling and Name Resolution) Overview | Knowledge Check
-- [ ] JAWS | Compute (Servers) Overview | Knowledge Check
+- [x] JAWS | Compute (Database Services) Overview | Knowledge Check
+- [x] JAWS | Compute (Scaling and Name Resolution) Overview | Knowledge Check
+- [x] JAWS | Compute (Servers) Overview | Knowledge Check
 - [ ] JAWS | Creating Automated and Repeatable Deployments Overview | Knowledge Check
 - [ ] JAWS | Managing Resource Consumption Overview | Knowledge Check
 - [ ] JAWS | Monitoring and Security Overview | Knowledge Check
-- [ ] JAWS | Networking Overview | Knowledge Check
+- [x] JAWS | Networking Overview | Knowledge Check
 - [ ] JAWS | Storage and Archiving Overview | Knowledge Check
 - [ ] JAWS | Systems Operations Overview| Knowledge Check
 - [ ] JAWS | Tooling and Automation Overview | Knowledge Check
